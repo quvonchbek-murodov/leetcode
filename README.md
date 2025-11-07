@@ -12,9 +12,9 @@ The solutions are categorized into three main folders, reflecting the difficulty
 
 | Directory | Description | Focus Areas |
  | ----- | ----- | ----- |
-| **`easy/`** | Foundational problems, great for warming up and ensuring basic syntax and data structure knowledge. | Arrays, Hash Tables, Strings, Simple Traversal |
-| **`medium/`** | Intermediate challenges that require understanding core algorithmic patterns. This is where most problem-solving growth occurs. | Two Pointers, Sliding Window, Backtracking, Dynamic Programming (Intro) |
-| **`hard/`** | Complex and challenging problems requiring advanced optimization techniques, efficient memory usage, and deep algorithmic insight. | Advanced Dynamic Programming, Graph Algorithms, Advanced Data Structures (Trie, Segment Tree) |
+| **`easy/`** | Foundational problems, great for warming up and ensuring basic syntax and data structure knowledge. |
+| **`medium/`** | Intermediate challenges that require understanding core algorithmic patterns. This is where most problem-solving growth occurs. |
+| **`hard/`** | Complex and challenging problems requiring advanced optimization techniques, efficient memory usage, and deep algorithmic insight. |
 
 ---
 
