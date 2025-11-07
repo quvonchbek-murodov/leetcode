@@ -10,8 +10,8 @@ The solutions are primarily written in **C++** and are structured purely by thei
 
 The solutions are categorized into three main folders, reflecting the difficulty assigned by LeetCode.
 
-| Directory | Description | Focus Areas |
- | ----- | ----- | ----- |
+| Directory | Description |
+ | ----- | ----- |
 | **`easy/`** | Foundational problems, great for warming up and ensuring basic syntax and data structure knowledge. |
 | **`medium/`** | Intermediate challenges that require understanding core algorithmic patterns. This is where most problem-solving growth occurs. |
 | **`hard/`** | Complex and challenging problems requiring advanced optimization techniques, efficient memory usage, and deep algorithmic insight. |
