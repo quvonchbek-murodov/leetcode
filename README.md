@@ -2,7 +2,7 @@
 
 Welcome to my personal repository of LeetCode solutions! This project serves as a comprehensive record of my journey through algorithmic problem-solving, designed to demonstrate mastery across various data structures and algorithm techniques.
 
-The solutions are primarily written in **[Your Primary Language, e.g., Python/JavaScript/C++]** and are structured purely by their assigned difficulty level to make tracking progress and finding solutions easy.
+The solutions are primarily written in **C++** and are structured purely by their assigned difficulty level to make tracking progress and finding solutions easy.
 
 ---
 
@@ -28,22 +28,14 @@ Each solution file follows a consistent naming format to ensure quick identifica
 
 **Example:**
 
-* `easy/0001_Two_Sum.py`
+* `easy/0001_two_sum.cpp`
 
-* `medium/0049_Group_Anagrams.js`
+* `medium/0049_group_anagrams.cpp`
 
-* `hard/0042_Trapping_Rain_Water.cpp`
-
-### 💡 Contributions & Learning
-
-While this is primarily a personal tracking repository, I welcome suggestions for cleaner implementations or discussions on time/space complexity improvements. Feel free to open an issue if you spot an error!
+* `hard/0042_trapping_rain_Water.cpp`
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Primary Language:** [Replace with your language, e.g., Python 3.10]
-
-* **Testing:** [Mention if you use unit tests or just LeetCode's environment]
-
-* **Goal:** Efficiency and clarity in code.
+* **Primary Language:** C++ 17+
